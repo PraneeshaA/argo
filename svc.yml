@@ -4,6 +4,7 @@ metadata:
   labels:
     app: praneesha-deploy
   name: praneesha-svc
+  namespace: praneesha
 
 spec:
   ports:
