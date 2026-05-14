@@ -6,7 +6,7 @@ metadata:
   name: praneesha-deploy
   namespace: praneesha
 spec:
-  replicas: 2
+  replicas: 5
   selector:
     matchLabels:
       app: praneesha-deploy
